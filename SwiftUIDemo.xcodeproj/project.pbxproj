@@ -11,6 +11,17 @@
 		FA45DDB02617D88900177333 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA45DDAF2617D88900177333 /* ContentView.swift */; };
 		FA45DDB22617D88C00177333 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDB12617D88C00177333 /* Assets.xcassets */; };
 		FA45DDB52617D88C00177333 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDB42617D88C00177333 /* Preview Assets.xcassets */; };
+		FA45DDC82617DC3100177333 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDBE2617DC3100177333 /* 8.jpg */; };
+		FA45DDC92617DC3100177333 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDBF2617DC3100177333 /* 9.jpg */; };
+		FA45DDCA2617DC3100177333 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC02617DC3100177333 /* 10.jpg */; };
+		FA45DDCB2617DC3100177333 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC12617DC3100177333 /* 4.jpg */; };
+		FA45DDCC2617DC3100177333 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC22617DC3100177333 /* 5.jpg */; };
+		FA45DDCD2617DC3100177333 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC32617DC3100177333 /* 7.jpg */; };
+		FA45DDCE2617DC3100177333 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC42617DC3100177333 /* 6.jpg */; };
+		FA45DDCF2617DC3100177333 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC52617DC3100177333 /* 2.jpg */; };
+		FA45DDD02617DC3100177333 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC62617DC3100177333 /* 3.jpg */; };
+		FA45DDD12617DC3100177333 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45DDC72617DC3100177333 /* 1.jpg */; };
+		FA45DDD42618401C00177333 /* weatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA45DDD32618401C00177333 /* weatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +31,17 @@
 		FA45DDB12617D88C00177333 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA45DDB42617D88C00177333 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA45DDB62617D88C00177333 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA45DDBE2617DC3100177333 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		FA45DDBF2617DC3100177333 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		FA45DDC02617DC3100177333 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		FA45DDC12617DC3100177333 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		FA45DDC22617DC3100177333 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		FA45DDC32617DC3100177333 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		FA45DDC42617DC3100177333 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		FA45DDC52617DC3100177333 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		FA45DDC62617DC3100177333 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		FA45DDC72617DC3100177333 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		FA45DDD32618401C00177333 /* weatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +76,9 @@
 			children = (
 				FA45DDAD2617D88900177333 /* SwiftUIDemoApp.swift */,
 				FA45DDAF2617D88900177333 /* ContentView.swift */,
+				FA45DDD32618401C00177333 /* weatherButton.swift */,
 				FA45DDB12617D88C00177333 /* Assets.xcassets */,
+				FA45DDBD2617DC3100177333 /* Nature */,
 				FA45DDB62617D88C00177333 /* Info.plist */,
 				FA45DDB32617D88C00177333 /* Preview Content */,
 			);
@@ -67,6 +91,23 @@
 				FA45DDB42617D88C00177333 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FA45DDBD2617DC3100177333 /* Nature */ = {
+			isa = PBXGroup;
+			children = (
+				FA45DDBE2617DC3100177333 /* 8.jpg */,
+				FA45DDBF2617DC3100177333 /* 9.jpg */,
+				FA45DDC02617DC3100177333 /* 10.jpg */,
+				FA45DDC12617DC3100177333 /* 4.jpg */,
+				FA45DDC22617DC3100177333 /* 5.jpg */,
+				FA45DDC32617DC3100177333 /* 7.jpg */,
+				FA45DDC42617DC3100177333 /* 6.jpg */,
+				FA45DDC52617DC3100177333 /* 2.jpg */,
+				FA45DDC62617DC3100177333 /* 3.jpg */,
+				FA45DDC72617DC3100177333 /* 1.jpg */,
+			);
+			path = Nature;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +167,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA45DDD02617DC3100177333 /* 3.jpg in Resources */,
+				FA45DDCE2617DC3100177333 /* 6.jpg in Resources */,
+				FA45DDCB2617DC3100177333 /* 4.jpg in Resources */,
+				FA45DDCF2617DC3100177333 /* 2.jpg in Resources */,
+				FA45DDCA2617DC3100177333 /* 10.jpg in Resources */,
+				FA45DDC82617DC3100177333 /* 8.jpg in Resources */,
+				FA45DDCD2617DC3100177333 /* 7.jpg in Resources */,
+				FA45DDC92617DC3100177333 /* 9.jpg in Resources */,
+				FA45DDCC2617DC3100177333 /* 5.jpg in Resources */,
+				FA45DDD12617DC3100177333 /* 1.jpg in Resources */,
 				FA45DDB52617D88C00177333 /* Preview Assets.xcassets in Resources */,
 				FA45DDB22617D88C00177333 /* Assets.xcassets in Resources */,
 			);
@@ -138,6 +189,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA45DDD42618401C00177333 /* weatherButton.swift in Sources */,
 				FA45DDB02617D88900177333 /* ContentView.swift in Sources */,
 				FA45DDAE2617D88900177333 /* SwiftUIDemoApp.swift in Sources */,
 			);
